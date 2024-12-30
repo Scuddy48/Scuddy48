@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Scuddy48
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...Fronend development
 - 🌱 I’m currently learning ...HTML, CSS and javascript
 - 💞️ I’m looking to collaborate on ...any help would be appreciated!
 - 📫 How to reach me ...shaunlowther40@gmail.com
