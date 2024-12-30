@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...HTML, CSS and javascript
 - 💞️ I’m looking to collaborate on ...any help would be appreciated!
 - 📫 How to reach me ...shaunlowther40@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...Him
+- ⚡ Fun fact: ...i used to make cling film!!
 
 <!---
 Scuddy48/Scuddy48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
